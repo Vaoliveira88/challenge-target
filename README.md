@@ -58,6 +58,7 @@ Recebe uma string e retorna seus caracteres invertidos.
 3. Navegue até o diretório do repositório:
 
    cd desafios-tecnicos
+   
 4.Execute o arquivo desejado com o comando:
 
    node nome_do_arquivo.js
