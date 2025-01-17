@@ -53,11 +53,13 @@ Recebe uma string e retorna seus caracteres invertidos.
 
 1. Certifique-se de ter o **Node.js** instalado em sua máquina.
 2. Clone este repositório:
-   ```bash
+
    git clone https://github.com/seu-usuario/desafios-tecnicos.git
 3. Navegue até o diretório do repositório:
+
    cd desafios-tecnicos
 4.Execute o arquivo desejado com o comando:
+
    node nome_do_arquivo.js
 
 
